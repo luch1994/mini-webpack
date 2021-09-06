@@ -1,0 +1,26 @@
+{
+  "name": "mini-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luch1994/mini-webpack.git"
+  },
+  "keywords": [],
+  "author": "luch1994",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luch1994/mini-webpack/issues"
+  },
+  "homepage": "https://github.com/luch1994/mini-webpack#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/parser": "^7.15.3",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/traverse": "^7.15.0"
+  }
+}
